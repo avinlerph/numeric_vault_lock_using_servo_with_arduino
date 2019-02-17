@@ -1,6 +1,6 @@
 # Numeric Vault Lock using Servo with Arduino UNO
 
-This repository contains the code for the Cardboard Vault with Electronic Number Lock posted in YouTube.
+This repository contains the code for the Cardboard Vault with Electronic Number Lock posted in this YouTube video https://youtu.be/9x4Ve1HUDuU.
 
 In the video, we're creating something new! With electronics, using Arduino UNO. We'll show you how we created a Cardboard Vault with Electronic Number Lock using Servo, LCD, Buzzer and some LEDs.
 
